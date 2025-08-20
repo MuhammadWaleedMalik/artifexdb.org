@@ -20,7 +20,7 @@ export default function Login() {
     }
 
     try {
-      if (email === "admin@airumi.org" && password === "@Abc123456") {
+      if (email === "admin@artifexdb.org" && password === "@Abc123456") {
         localStorage.setItem("Admin", "Done");
         navigate("/admin");
       } else {
