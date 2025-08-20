@@ -1,0 +1,53 @@
+{
+  "title": "数据搜索",
+  "subtitle": "探索并为我们的考古和历史数据存储库做出贡献",
+  "categoriesTitle": "分类",
+  "categories": [
+    { "id": "archaeology", "name": "考古学", "count": 150 },
+    { "id": "history", "name": "历史", "count": 100 },
+    { "id": "prosopography", "name": "人物志", "count": 75 }
+  ],
+  "addDataTitle": "添加新数据条目",
+  "formFields": {
+    "title": "数据标题",
+    "description": "数据描述",
+    "tags": "标签（用逗号分隔）",
+    "tagsHint": "用逗号分隔标签，例如：文物、挖掘"
+  },
+  "submitData": "提交数据",
+  "searchPlaceholder": "搜索数据...",
+  "filters": {
+    "recent": "最近",
+    "noDetails": "无详情",
+    "popular": "热门"
+  },
+  "detail": "详情",
+  "details": "详情",
+  "verified": "已验证",
+  "noDetails": "无额外详情",
+  "addDetailPlaceholder": "添加额外详情...",
+  "postDetail": "发布详情",
+  "noDataTitle": "未找到数据",
+  "noDataDescription": "尝试调整您的搜索或过滤器以找到数据。",
+  "sampleDataEntries": [
+    {
+      "title": "青铜时代文物数据集",
+      "description": "该数据集包括地中海地区青铜时代文物的详细记录。涵盖陶器、工具和装饰品，采用 CIDOC-CRM 映射。数据来自近期挖掘。研究人员可下载和分析数据集。所有条目均符合 FAIR 原则。现在探索发现。",
+      "details": [
+        "元数据包括文物类型、材料和来源。由 {websiteName} 团队验证。"
+      ]
+    },
+    {
+      "title": "中世纪手稿集",
+      "description": "欧洲档案馆中数字化的中世纪手稿集。每个条目包括来源和内容详情。数据格式符合 CIDOC-CRM 标准。适合历史研究。贡献额外详情以丰富数据集。"
+    },
+    {
+      "title": "罗马官员人物志记录",
+      "description": "该数据集追踪公元一世纪的罗马官员。包括姓名、角色和隶属关系。数据结构符合 FAIR 原则。研究人员可探索或添加详情。两项验证贡献提升其可靠性。",
+      "details": [
+        "包括来自罗马铭文的验证记录。由首席历史学家贡献。",
+        "关于官员头衔和地点的额外说明。社区提交。"
+      ]
+    }
+  ]
+}

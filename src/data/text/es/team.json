@@ -1,0 +1,38 @@
+{
+  "title": "Conoce al equipo de {websiteName}",
+  "subtitle": "Los innovadores detrás de nuestra plataforma de datos arqueológicos de código abierto",
+  "introduction": {
+    "title": "Quiénes Somos",
+    "description": "{websiteName} está impulsado por un equipo global apasionado de arqueólogos, historiadores, científicos de datos y desarrolladores. Estamos comprometidos con avanzar en la investigación de acceso abierto, preservar el patrimonio cultural y permitir una gestión de datos fluida a través de nuestro sistema basado en navegador, alineado con CIDOC-CRM y los principios FAIR."
+  },
+  "members": [
+    {
+      "id": 1,
+      "name": "Dra. Elena Martínez",
+      "role": "Arqueóloga Principal",
+      "bio": "La Dra. Martínez se especializa en arqueología mediterránea y lidera los esfuerzos de {websiteName} para integrar datos de excavaciones con los estándares CIDOC-CRM.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIyTZVXyb90oYHRiiX6YkNUc0CnzGwWjI3Q&s"
+    },
+    {
+      "id": 2,
+      "name": "Prof. Hiroshi Tanaka",
+      "role": "Historiador",
+      "bio": "El Prof. Tanaka se centra en registros históricos de Asia Oriental, asegurando que los datos de {websiteName} sean accesibles y reutilizables para investigadores globales.",
+      "image": "https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7224.jpeg?itok=LwkgtTdm"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Johnson",
+      "role": "Científica de Datos",
+      "bio": "Sarah diseña las herramientas de visualización de datos de {websiteName}, haciendo que los conjuntos de datos arqueológicos complejos sean intuitivos y reveladores.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJCT9SScspmVQJX2fcMWnO4en-xv8qzOJCg&s"
+    },
+    {
+      "id": 4,
+      "name": "Luis Navarro",
+      "role": "Desarrollador Principal",
+      "bio": "Luis supervisa la base de código de código abierto de {websiteName}, asegurando un rendimiento robusto y seguridad para nuestra plataforma basada en navegador.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIhqaQHE3TD9Rf2xIB_1hIF_79EAMO00IxUdlexCmtCn3CpbLBIfKof2zHz7d3dSM7wI&usqp=CAU"
+    }
+  ]
+}

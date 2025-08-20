@@ -1,0 +1,15 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "searchData": "Search Data",
+    "refineFindings": "Refine Your Findings",
+    "andThatIsIt": "And That Is It",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "languageSelector": {
+    "heading": "Languages",
+    "changeLanguageLabel": "Change Language"
+  }
+}

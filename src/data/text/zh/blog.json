@@ -1,0 +1,24 @@
+{
+  "title": "探索我们的电影节洞察",
+  "subtitle": "深入了解电影节的世界，掌握技巧、窍门和工具，提升你的体验。",
+  "posts": [
+    {
+      "title": "发现精彩电影节",
+      "content": "通过我们的平台探索全球数千个电影节。从独立佳作到大型活动，找到最适合展示你作品的电影节。我们精心策划的列表可根据影片类型、预算和目标帮助你轻松发现合适的机会。按地点、类别或截止日期搜索，抓住你的下一个大机会。无论你是首次拍片的新人，还是经验丰富的专业人士，我们的平台都将你与全球电影节网络连接起来。立即开始探索，扩大你电影的影响力！",
+      "image": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/047/271/large/logo.jpg?1716421496",
+      "link": "/festivals"
+    },
+    {
+      "title": "智能便捷的投稿方式",
+      "content": "通过我们优化的流程，投稿你的电影从未如此简单。上传你的项目，选择电影节，一键提交。我们的平台安全保存你的影片信息，方便多次投稿使用。实时跟踪你的投稿状态，获取电影节的最新决定通知。专为电影人设计，我们直观的界面省去繁琐的表格和纸质文件。轻松将你的作品呈现在电影节组织者面前，专注于你最擅长的创作工作。",
+      "image": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/005/387/large/logo.jpg?1714481098",
+      "link": "/submit"
+    },
+    {
+      "title": "为电影节和比赛带来变革",
+      "content": "通过我们的一体化管理工具，彻底改变你的电影节体验。接收投稿、售票、宣传活动一站式完成。我们平台通过可定制的评审标准和安全的文件处理简化了审核流程。使用内置的营销工具和实时分析功能与观众互动。从小型本地活动到国际电影节，我们的解决方案都可扩展以满足你的需求。简化流程、提高出席率，专注于策划令人难忘的电影节体验。了解我们如何助力组织者取得成功！",
+      "image": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/005/378/large/logo.jpg?1743414497",
+      "link": "/manage"
+    }
+  ]
+}

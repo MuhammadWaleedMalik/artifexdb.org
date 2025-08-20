@@ -1,0 +1,58 @@
+{
+  "title": "Repositorio de Datos Refinados",
+  "subtitle": "Conjuntos de datos arqueológicos e históricos verificados",
+  "filters": {
+    "all": "Todos los datos",
+    "verified": "Verificado",
+    "popular": "Popular",
+    "recent": "Reciente"
+  },
+  "filter": "Filtrar",
+  "filterBy": "Filtrar por",
+  "popularTags": "Etiquetas populares",
+  "searchPlaceholder": "Buscar conjuntos de datos...",
+  "addData": "Agregar datos",
+  "addDataTitle": "Agregar nuevos datos",
+  "cancel": "Cancelar",
+  "submitData": "Enviar datos",
+  "formFields": {
+    "title": "Título",
+    "titlePlaceholder": "Ingrese el título del conjunto de datos",
+    "description": "Descripción",
+    "descriptionPlaceholder": "Ingrese la descripción del conjunto de datos",
+    "tags": "Etiquetas",
+    "tagsPlaceholder": "Ingrese etiquetas, separadas por comas",
+    "tagsHint": "Separe las etiquetas con comas"
+  },
+  "noDataTitle": "No se encontraron datos",
+  "noDataDescription": "Intente ajustar la búsqueda o los filtros",
+  "clearSearch": "Borrar búsqueda",
+  "detail": "Detalles",
+  "details": "Detalles",
+  "noDetails": "No hay detalles disponibles",
+  "addDetailPlaceholder": "Agregar un detalle a este conjunto de datos",
+  "postDetail": "Publicar detalle",
+  "verified": "Verificado",
+  "sampleDataEntries": [
+    {
+      "title": "Análisis de cerámica antigua",
+      "description": "Análisis detallado de fragmentos de cerámica de la Edad del Bronce",
+      "details": [
+        "Análisis de la composición química de muestras de arcilla"
+      ]
+    },
+    {
+      "title": "Catálogo de manuscritos medievales",
+      "description": "Catálogo de manuscritos iluminados del siglo XII en Europa",
+      "details": []
+    },
+    {
+      "title": "Estudio de asentamiento romano",
+      "description": "Resultados de estudios geofísicos de un asentamiento romano recientemente descubierto",
+      "details": [
+        "Resultados de radar de penetración terrestre con anotaciones",
+        "Interpretación preliminar de los hallazgos"
+      ]
+    }
+  ]
+}

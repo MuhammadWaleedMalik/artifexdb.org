@@ -1,0 +1,37 @@
+{
+  "title": "About {websiteName}",
+  "subtitle": "Empowering global research with an open-source platform for archaeological and historical data",
+  "mission": {
+    "title": "Our Mission",
+    "description": "{websiteName} is dedicated to revolutionizing how researchers acquire, edit, and manage archaeological, historical, and prosopographical data. By providing an open-source, browser-based database system with customized forms and CIDOC-CRM mapping, we ensure data is interoperable, accessible, and compliant with FAIR principles, fostering global collaboration and discovery."
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "items": [
+      {
+        "id": 1,
+        "title": "Open-Source Platform",
+        "description": "{websiteName} is fully open-source, allowing researchers to customize forms, integrate new tools, and contribute to our codebase for community-driven innovation."
+      },
+      {
+        "id": 2,
+        "title": "CIDOC-CRM Integration",
+        "description": "Our platform automatically maps data to the CIDOC-CRM standard, ensuring interoperability with global cultural heritage systems and seamless data sharing."
+      },
+      {
+        "id": 3,
+        "title": "FAIR Principles Compliance",
+        "description": "{websiteName} adheres to FAIR principles, making data findable, accessible, interoperable, and reusable through unique identifiers, open APIs, and clear licensing."
+      },
+      {
+        "id": 4,
+        "title": "Secure Data Management",
+        "description": "With encryption and blockchain-based provenance tracking, {websiteName} ensures data security, authenticity, and traceability for reliable research."
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "{websiteName} is powered by a global team of archaeologists, historians, data scientists, and developers committed to advancing open-access research and preserving cultural heritage."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "{websiteName} Blog",
+  "subtitle": "Explore insights and updates on archaeological data management",
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introducing {websiteName}'s CIDOC-CRM Integration",
+      "excerpt": "{websiteName} now maps data to CIDOC-CRM standards, ensuring interoperability. This feature streamlines sharing of archaeological records globally. Researchers can access unified datasets effortlessly. Our open-source platform supports seamless integration. Learn how to leverage this tool today.",
+      "date": "2025-08-01",
+      "category": "Technology"
+    },
+    {
+      "id": 2,
+      "title": "FAIR Principles in {websiteName}",
+      "excerpt": "{websiteName} adheres to FAIR principles for data management. Our platform makes research findable, accessible, interoperable, and reusable. Users benefit from open licenses and metadata. This approach fosters global collaboration. Discover FAIR-compliant tools now.",
+      "date": "2025-07-15",
+      "category": "Research"
+    },
+    {
+      "id": 3,
+      "title": "Custom Forms in {websiteName}",
+      "excerpt": "{websiteName} offers customizable forms for data entry. Researchers can tailor fields to specific archaeological needs. This flexibility enhances data accuracy. The platform supports collaborative editing. Start creating your forms today.",
+      "date": "2025-06-30",
+      "category": "Features"
+    },
+    {
+      "id": 4,
+      "title": "Securing Data with {websiteName}",
+      "excerpt": "{websiteName} uses encryption and blockchain for data security. Provenance tracking ensures authenticity of archaeological records. Our open-source code is community-audited. Researchers trust our platform for sensitive data. Explore our security features.",
+      "date": "2025-06-10",
+      "category": "Security"
+    },
+    {
+      "id": 5,
+      "title": "Community Contributions to {websiteName}",
+      "excerpt": "{websiteName} thrives on community contributions. Researchers submit datasets and forms, reviewed for quality. Approved content enriches our database. Contributors are credited for their work. Join our global research community.",
+      "date": "2025-05-20",
+      "category": "Community"
+    }
+  ]
+}

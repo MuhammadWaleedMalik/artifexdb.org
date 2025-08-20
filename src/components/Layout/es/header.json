@@ -1,0 +1,15 @@
+{
+  "logoAlt": "Logotipo de {websiteName}",
+  "nav": {
+    "searchData": "Buscar Datos",
+    "refineFindings": "Refinar Tus Hallazgos",
+    "andThatIsIt": "Y Eso Es Todo",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar Sesión"
+  },
+  "languageSelector": {
+    "heading": "Idiomas",
+    "changeLanguageLabel": "Cambiar Idioma"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Search Data",
+  "subtitle": "Explore and contribute to our archaeological and historical data repository",
+  "categoriesTitle": "Categories",
+  "categories": [
+    { "id": "archaeology", "name": "Archaeology", "count": 150 },
+    { "id": "history", "name": "History", "count": 100 },
+    { "id": "prosopography", "name": "Prosopography", "count": 75 }
+  ],
+  "addDataTitle": "Add New Data Entry",
+  "formFields": {
+    "title": "Data Title",
+    "description": "Data Description",
+    "tags": "Tags (comma-separated)",
+    "tagsHint": "Separate tags with commas, e.g., artifacts, excavation"
+  },
+  "submitData": "Submit Data",
+  "searchPlaceholder": "Search data...",
+  "filters": {
+    "recent": "Recent",
+    "noDetails": "No Details",
+    "popular": "Popular"
+  },
+  "detail": "Detail",
+  "details": "Details",
+  "verified": "Verified",
+  "noDetails": "No additional details available",
+  "addDetailPlaceholder": "Add additional details...",
+  "postDetail": "Post Detail",
+  "noDataTitle": "No Data Found",
+  "noDataDescription": "Try adjusting your search or filters to find data.",
+  "sampleDataEntries": [
+    {
+      "title": "Bronze Age Artifacts Dataset",
+      "description": "This dataset includes detailed records of Bronze Age artifacts from the Mediterranean. It covers pottery, tools, and ornaments with CIDOC-CRM mappings. Data is sourced from recent excavations. Researchers can download and analyze the dataset. All entries are FAIR-compliant. Explore the findings now.",
+      "details": [
+        "Metadata includes artifact type, material, and provenance. Verified by the {websiteName} team."
+      ]
+    },
+    {
+      "title": "Medieval Manuscripts Collection",
+      "description": "A collection of digitized medieval manuscripts from European archives. Each entry includes provenance and content details. Data is formatted for CIDOC-CRM compatibility. Ideal for historical research. Contribute additional details to enrich the dataset."
+    },
+    {
+      "title": "Prosopographical Records of Roman Officials",
+      "description": "This dataset tracks Roman officials from the 1st century CE. It includes names, roles, and affiliations. Data is structured for FAIR principles. Researchers can explore or add details. Two verified contributions enhance its reliability.",
+      "details": [
+        "Includes verified records from Roman inscriptions. Contributed by lead historian.",
+        "Additional notes on official titles and locations. Community-submitted."
+      ]
+    }
+  ]
+}

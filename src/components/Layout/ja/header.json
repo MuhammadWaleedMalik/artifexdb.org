@@ -1,0 +1,15 @@
+{
+  "logoAlt": "{websiteName} ロゴ",
+  "nav": {
+    "searchData": "データ検索",
+    "refineFindings": "発見を絞り込む",
+    "andThatIsIt": "それだけです",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト"
+  },
+  "languageSelector": {
+    "heading": "言語",
+    "changeLanguageLabel": "言語を変更"
+  }
+}

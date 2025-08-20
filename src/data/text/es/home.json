@@ -1,0 +1,38 @@
+{
+  "page1": {
+    "title": "Gestiona fácilmente tus datos de investigación",
+    "description": "{website.name} es un software de base de datos de código abierto desarrollado especialmente para adquirir, editar y gestionar datos de investigación en campos de las humanidades como la historia, la arqueología y el patrimonio cultural, así como datos científicos relacionados.",
+    "links": [
+      { "text": "Search Archeological Data Now ", "to": "/searchdata" },
+      { "text": "Make Your Findings Better", "to": "/refinedata" }
+    ]
+  },
+  "page2": {
+    "title": "{website.name}",
+    "description": "{website.name} es un software de base de datos de código abierto desarrollado para adquirir, editar y gestionar datos de investigación en humanidades como la historia, la arqueología y el patrimonio cultural, así como datos científicos como datación por radiocarbono, isótopos estables e información antropológica. Ofrece una interfaz accesible desde cualquier navegador web común, permitiendo a los investigadores trabajar con formularios y categorías personalizados para registrar relaciones complejas de forma sencilla. El software mapea automáticamente la información al estándar internacional CIDOC CRM y cumple con los requisitos actuales de estándares y gestión de datos, siguiendo los principios FAIR en el contexto de las Humanidades Digitales."
+  },
+  "page3": {
+    "title": "Cómo usarlo",
+    "description": "{website.name} no es una aplicación independiente, sino que debe instalarse en un servidor web Linux. El código es de código abierto (licencia GPL2) y está disponible gratuitamente en GitHub. Se requiere experiencia en administración de servidores. Para más información, consulta las notas de instalación."
+  },
+  "page4": {
+    "title": "¿Interesado en una cooperación?",
+    "description": "Aunque {website.name} está disponible gratuitamente en GitHub, no todos los proyectos tienen los recursos internos para cubrir todos los aspectos necesarios para usar este complejo software (por ejemplo, configurar un servidor web y {website.name}, actualizaciones, copias de seguridad, desarrollo de nuevas funciones, etc.). Por lo tanto, es posible cooperar con el equipo de {website.name} a través del ACDH, un instituto de la Academia Austríaca de Ciencias, si se cuenta con presupuesto. Para ver proyectos actuales y anteriores, consulta: projects."
+  },
+  "page5": {
+    "title": "Modelo",
+    "description": "El modelo de datos especifica la estructura en la que se almacena la información dentro de la base de datos. El uso de una ontología, por ejemplo, permite combinar más fácilmente los datos con otros proyectos y es coherente con los principios FAIR. El modelo de {website.name} se basa en el estándar internacional CIDOC CRM, una ontología ampliamente utilizada en el ámbito de las humanidades.\n\nTipos para adaptar temas de investigación específicos\nSistemas de referencia para Linked Open Data (LOD)\nMapeo de incertidumbre espacial y temporal\nHallazgos arqueológicos con mapeo detallado\nFunciones de verificación de integridad de datos\nVerificador de enlaces para confirmar validez CIDOC CRM"
+  },
+  "page6": {
+    "title": "Mapa interactivo",
+    "description": "Se pueden introducir lugares con ubicación conocida en un mapa interactivo basado en Leaflet, que ofrece distintas capas de visualización, permite hacer zoom, modo pantalla completa, agrupamiento, búsqueda y mucho más. PostGIS se utiliza para crear y manipular datos espaciales, lo que permite ingresar múltiples puntos, líneas, áreas y formas según sea necesario."
+  },
+  "page7": {
+    "title": "Socios de confianza",
+    "partners": [
+      { "name": "Socio 1", "logo": "/images/partner1.png" },
+      { "name": "Socio 2", "logo": "/images/partner2.png" },
+      { "name": "Socio 3", "logo": "/images/partner3.png" }
+    ]
+  }
+}

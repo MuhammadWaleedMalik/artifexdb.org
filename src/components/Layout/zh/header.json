@@ -1,0 +1,15 @@
+{
+  "logoAlt": "{websiteName} 标志",
+  "nav": {
+    "searchData": "搜索数据",
+    "refineFindings": "优化您的发现",
+    "andThatIsIt": "就这样",
+    "login": "登录",
+    "signup": "注册",
+    "logout": "退出"
+  },
+  "languageSelector": {
+    "heading": "语言",
+    "changeLanguageLabel": "更改语言"
+  }
+}

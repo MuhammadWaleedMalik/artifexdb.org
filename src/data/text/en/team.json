@@ -1,0 +1,38 @@
+{
+  "title": "Meet the {websiteName} Team",
+  "subtitle": "The innovators behind our open-source archaeological data platform",
+  "introduction": {
+    "title": "Who We Are",
+    "description": "{websiteName} is driven by a passionate global team of archaeologists, historians, data scientists, and developers. We are united by a commitment to advancing open-access research, preserving cultural heritage, and enabling seamless data management through our browser-based system aligned with CIDOC-CRM and FAIR principles."
+  },
+  "members": [
+    {
+      "id": 1,
+      "name": "Dr. Elena Martinez",
+      "role": "Lead Archaeologist",
+      "bio": "Dr. Martinez specializes in Mediterranean archaeology and leads {websiteName}'s efforts to integrate excavation data with CIDOC-CRM standards.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIyTZVXyb90oYHRiiX6YkNUc0CnzGwWjI3Q&s"
+    },
+    {
+      "id": 2,
+      "name": "Prof. Hiroshi Tanaka",
+      "role": "Historian",
+      "bio": "Prof. Tanaka focuses on East Asian historical records, ensuring {websiteName}'s data is accessible and reusable for global researchers.",
+      "image": "https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7224.jpeg?itok=LwkgtTdm"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Johnson",
+      "role": "Data Scientist",
+      "bio": "Sarah designs {websiteName}'s data visualization tools, making complex archaeological datasets intuitive and insightful.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJCT9SScspmVQJX2fcMWnO4en-xv8qzOJCg&s"
+    },
+    {
+      "id": 4,
+      "name": "Luis Navarro",
+      "role": "Lead Developer",
+      "bio": "Luis oversees {websiteName}'s open-source codebase, ensuring robust performance and security for our browser-based platform.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIhqaQHE3TD9Rf2xIB_1hIF_79EAMO00IxUdlexCmtCn3CpbLBIfKof2zHz7d3dSM7wI&usqp=CAU"
+    }
+  ]
+}

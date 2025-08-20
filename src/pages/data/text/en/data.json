@@ -1,0 +1,58 @@
+{
+  "title": "Refined Data Repository",
+  "subtitle": "Verified archaeological and historical datasets",
+  "filters": {
+    "all": "All Data",
+    "verified": "Verified",
+    "popular": "Popular",
+    "recent": "Recent"
+  },
+  "filter": "Filter",
+  "filterBy": "Filter By",
+  "popularTags": "Popular Tags",
+  "searchPlaceholder": "Search datasets...",
+  "addData": "Add Data",
+  "addDataTitle": "Add New Data",
+  "cancel": "Cancel",
+  "submitData": "Submit Data",
+  "formFields": {
+    "title": "Title",
+    "titlePlaceholder": "Enter dataset title",
+    "description": "Description",
+    "descriptionPlaceholder": "Enter dataset description",
+    "tags": "Tags",
+    "tagsPlaceholder": "Enter tags, separated by commas",
+    "tagsHint": "Separate tags with commas"
+  },
+  "noDataTitle": "No Data Found",
+  "noDataDescription": "Try adjusting your search or filters",
+  "clearSearch": "Clear Search",
+  "detail": "Detail",
+  "details": "Details",
+  "noDetails": "No details available",
+  "addDetailPlaceholder": "Add a detail to this dataset",
+  "postDetail": "Post Detail",
+  "verified": "Verified",
+  "sampleDataEntries": [
+    {
+      "title": "Ancient Pottery Analysis",
+      "description": "Detailed analysis of pottery fragments from the Bronze Age",
+      "details": [
+        "Chemical composition analysis of clay samples"
+      ]
+    },
+    {
+      "title": "Medieval Manuscript Catalog",
+      "description": "Catalog of illuminated manuscripts from 12th century Europe",
+      "details": []
+    },
+    {
+      "title": "Roman Settlement Survey",
+      "description": "Geophysical survey results from newly discovered Roman settlement",
+      "details": [
+        "Ground-penetrating radar results with annotations",
+        "Preliminary interpretation of findings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Política de Privacidad de {websiteName}",
+  "subtitle": "Nuestro compromiso para proteger tus datos mientras avanzamos en la investigación de acceso abierto",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Recolección de Datos",
+      "content": "{websiteName} recolecta únicamente los datos necesarios para proporcionar nuestros servicios de base de datos de código abierto basada en navegador, como detalles de cuentas de usuario (por ejemplo, correo electrónico, nombre) y datos de investigación enviados voluntariamente. Todos los datos se recolectan cumpliendo con los principios FAIR, asegurando transparencia y accesibilidad."
+    },
+    {
+      "id": 2,
+      "title": "Uso de Datos",
+      "content": "Usamos tus datos para habilitar las funcionalidades de la plataforma, incluyendo la gestión de datos, el mapeo CIDOC-CRM y la investigación colaborativa. {websiteName} no utiliza datos personales para marketing ni los comparte con terceros sin consentimiento explícito, salvo que lo requiera la ley."
+    },
+    {
+      "id": 3,
+      "title": "Seguridad de Datos",
+      "content": "{websiteName} emplea encriptación y seguimiento de procedencia basado en blockchain para proteger tus datos. Nuestra plataforma de código abierto es auditada regularmente por la comunidad para garantizar una protección robusta de los datos arqueológicos, históricos y prosopográficos."
+    },
+    {
+      "id": 4,
+      "title": "Compartición de Datos y Principios FAIR",
+      "content": "Como plataforma de acceso abierto, {websiteName} comparte datos de investigación anonimizados bajo licencias abiertas, cumpliendo con los principios FAIR (Encontrable, Accesible, Interoperable, Reutilizable). Los datos personales nunca se comparten sin consentimiento, y los usuarios controlan la visibilidad de sus datos."
+    },
+    {
+      "id": 5,
+      "title": "Derechos del Usuario",
+      "content": "Tienes derecho a acceder, modificar o eliminar tus datos personales en {websiteName}. Contacta a nuestro equipo de soporte para ejercer estos derechos o revisa nuestras políticas para gestionar tus contribuciones a nuestra base de datos compatible con CIDOC-CRM."
+    }
+  ]
+}

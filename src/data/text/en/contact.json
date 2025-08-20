@@ -1,0 +1,17 @@
+{
+  "title": "Get in Touch with Us",
+  "subtitle": "Contact our team for support with festival submissions, management, or inquiries.",
+  "contactInfo": {
+    "email": "support@filmfestivalplatform.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Festival Lane, Cinema City, CA 90210, USA"
+  },
+  "form": {
+    "title": "Send Us a Message",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "submitButton": "Submit"
+  }
+}

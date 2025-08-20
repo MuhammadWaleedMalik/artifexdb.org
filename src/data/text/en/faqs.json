@@ -1,0 +1,31 @@
+{
+  "title": "{websiteName} FAQs",
+  "subtitle": "Learn about our open-source platform for managing archaeological and historical research data",
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is {websiteName} and how does it support archaeological research?",
+      "answer": "{websiteName} is an open-source, browser-based database system designed to acquire, edit, and manage archaeological, historical, and prosopographical data. It uses customized forms to streamline data entry and automatically maps entries to the CIDOC-CRM standard, ensuring interoperability and compliance with FAIR principles (Findable, Accessible, Interoperable, Reusable)."
+    },
+    {
+      "id": 2,
+      "question": "How can I use {websiteName} to manage my research data?",
+      "answer": "With {websiteName}, you can create custom forms to input data such as excavation records, artifact details, or historical profiles. The platform supports collaborative editing, data visualization, and export in formats compatible with CIDOC-CRM. Register for a free account to access these tools and explore our open-source repository for customization."
+    },
+    {
+      "id": 3,
+      "question": "Does {websiteName} ensure data complies with FAIR principles?",
+      "answer": "Yes, {websiteName} is built to align with FAIR principles. Data is findable through unique identifiers, accessible via open APIs, interoperable with CIDOC-CRM mappings, and reusable with clear licensing. Metadata is automatically generated to enhance discoverability and ensure compliance with global research standards."
+    },
+    {
+      "id": 4,
+      "question": "Can I contribute my own data or forms to {websiteName}?",
+      "answer": "Absolutely. {websiteName} allows researchers to submit datasets or custom form templates through a secure portal. Contributions are peer-reviewed to ensure quality and compatibility with CIDOC-CRM. Approved submissions are integrated into the platform, credited to contributors, and made available under open licenses."
+    },
+    {
+      "id": 5,
+      "question": "How does {websiteName} handle data security and authenticity?",
+      "answer": "{websiteName} uses encryption and blockchain-based provenance tracking to secure data and verify authenticity. All entries are sourced from trusted institutions or verified contributors, and metadata ensures traceability. Our open-source codebase allows community auditing for transparency and reliability."
+    }
+  ]
+}

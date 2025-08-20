@@ -1,0 +1,53 @@
+{
+  "title": "Buscar Datos ",
+  "subtitle": "Explora y contribuye a nuestro repositorio de datos arqueológicos e históricos",
+  "categoriesTitle": "Categorías",
+  "categories": [
+    { "id": "archaeology", "name": "Arqueología", "count": 150 },
+    { "id": "history", "name": "Historia", "count": 100 },
+    { "id": "prosopography", "name": "Prosopografía", "count": 75 }
+  ],
+  "addDataTitle": "Agregar Nueva Entrada de Datos",
+  "formFields": {
+    "title": "Título de los Datos",
+    "description": "Descripción de los Datos",
+    "tags": "Etiquetas (separadas por comas)",
+    "tagsHint": "Separa las etiquetas con comas, ej., artefactos, excavación"
+  },
+  "submitData": "Enviar Datos",
+  "searchPlaceholder": "Buscar datos...",
+  "filters": {
+    "recent": "Reciente",
+    "noDetails": "Sin Detalles",
+    "popular": "Popular"
+  },
+  "detail": "Detalle",
+  "details": "Detalles",
+  "verified": "Verificado",
+  "noDetails": "No hay detalles adicionales disponibles",
+  "addDetailPlaceholder": "Agregar detalles adicionales...",
+  "postDetail": "Publicar Detalle",
+  "noDataTitle": "No se Encontraron Datos",
+  "noDataDescription": "Ajusta tu búsqueda o filtros para encontrar datos.",
+  "sampleDataEntries": [
+    {
+      "title": "Conjunto de Datos de Artefactos de la Edad del Bronce",
+      "description": "Este conjunto de datos incluye registros detallados de artefactos de la Edad del Bronce del Mediterráneo. Cubre cerámica, herramientas y ornamentos con mapeos CIDOC-CRM. Los datos provienen de excavaciones recientes. Los investigadores pueden descargar y analizar el conjunto. Todas las entradas cumplen con FAIR. Explora los hallazgos ahora.",
+      "details": [
+        "Los metadatos incluyen tipo de artefacto, material y procedencia. Verificado por el equipo de {websiteName}."
+      ]
+    },
+    {
+      "title": "Colección de Manuscritos Medievales",
+      "description": "Una colección de manuscritos medievales digitalizados de archivos europeos. Cada entrada incluye detalles de procedencia y contenido. Los datos están formateados para compatibilidad con CIDOC-CRM. Ideal para investigación histórica. Contribuye con detalles adicionales para enriquecer el conjunto."
+    },
+    {
+      "title": "Registros Prosopográficos de Oficiales Romanos",
+      "description": "Este conjunto de datos rastrea a oficiales romanos del siglo I d.C. Incluye nombres, roles y afiliaciones. La estructura de datos cumple con los principios FAIR. Los investigadores pueden explorar o agregar detalles. Dos contribuciones verificadas mejoran su fiabilidad.",
+      "details": [
+        "Incluye registros verificados de inscripciones romanas. Contribuido por el historiador principal.",
+        "Notas adicionales sobre títulos y ubicaciones de oficiales. Enviado por la comunidad."
+      ]
+    }
+  ]
+}

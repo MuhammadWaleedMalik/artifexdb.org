@@ -1,0 +1,58 @@
+{
+  "title": "精炼数据存储库",
+  "subtitle": "经过验证的考古和历史数据集",
+  "filters": {
+    "all": "所有数据",
+    "verified": "已验证",
+    "popular": "热门",
+    "recent": "最新"
+  },
+  "filter": "过滤",
+  "filterBy": "按条件过滤",
+  "popularTags": "热门标签",
+  "searchPlaceholder": "搜索数据集...",
+  "addData": "添加数据",
+  "addDataTitle": "添加新数据",
+  "cancel": "取消",
+  "submitData": "提交数据",
+  "formFields": {
+    "title": "标题",
+    "titlePlaceholder": "输入数据集标题",
+    "description": "描述",
+    "descriptionPlaceholder": "输入数据集描述",
+    "tags": "标签",
+    "tagsPlaceholder": "输入标签，用逗号分隔",
+    "tagsHint": "用逗号分隔标签"
+  },
+  "noDataTitle": "未找到数据",
+  "noDataDescription": "尝试调整搜索或过滤条件",
+  "clearSearch": "清除搜索",
+  "detail": "详情",
+  "details": "详细信息",
+  "noDetails": "无可用详情",
+  "addDetailPlaceholder": "为此数据集添加详情",
+  "postDetail": "发布详情",
+  "verified": "已验证",
+  "sampleDataEntries": [
+    {
+      "title": "古陶器分析",
+      "description": "对青铜时代陶器碎片的详细分析",
+      "details": [
+        "粘土样本的化学成分分析"
+      ]
+    },
+    {
+      "title": "中世纪手稿目录",
+      "description": "12世纪欧洲彩绘手稿目录",
+      "details": []
+    },
+    {
+      "title": "罗马定居点调查",
+      "description": "新发现的罗马定居点的地球物理调查结果",
+      "details": [
+        "带注释的探地雷达结果",
+        "初步发现解释"
+      ]
+    }
+  ]
+}

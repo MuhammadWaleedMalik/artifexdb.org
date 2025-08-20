@@ -1,0 +1,17 @@
+{
+  "title": "お問い合わせ",
+  "subtitle": "映画祭の応募、管理、その他のお問い合わせについては、当チームまでご連絡ください。",
+  "contactInfo": {
+    "email": "support@filmfestivalplatform.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Festival Lane, Cinema City, CA 90210, USA"
+  },
+  "form": {
+    "title": "メッセージを送信",
+    "nameLabel": "お名前",
+    "emailLabel": "メールアドレス",
+    "subjectLabel": "件名",
+    "messageLabel": "メッセージ",
+    "submitButton": "送信"
+  }
+}

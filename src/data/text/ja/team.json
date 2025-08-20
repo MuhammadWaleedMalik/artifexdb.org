@@ -1,0 +1,38 @@
+{
+  "title": "{websiteName} チームのご紹介",
+  "subtitle": "オープンソース考古学データプラットフォームの背後にある革新者たち",
+  "introduction": {
+    "title": "私たちは誰か",
+    "description": "{websiteName} は、考古学者、歴史家、データサイエンティスト、開発者からなる情熱的なグローバルチームによって推進されています。私たちは、開放的な研究を推進し、文化遺産を保護し、CIDOC-CRM および FAIR 原則に準拠したブラウザベースのシステムを通じてシームレスなデータ管理を実現することに尽力しています。"
+  },
+  "members": [
+    {
+      "id": 1,
+      "name": "エレナ・マルティネス博士",
+      "role": "主任考古学者",
+      "bio": "マルティネス博士は地中海考古学を専門とし、{websiteName} の発掘データを CIDOC-CRM 標準に統合する取り組みを主導しています。",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIyTZVXyb90oYHRiiX6YkNUc0CnzGwWjI3Q&s"
+    },
+    {
+      "id": 2,
+      "name": "田中宏教授",
+      "role": "歴史学者",
+      "bio": "田中教授は東アジアの歴史記録に焦点を当て、{websiteName} のデータがグローバルな研究者にとってアクセス可能で再利用可能であることを保証します。",
+      "image": "https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7224.jpeg?itok=LwkgtTdm"
+    },
+    {
+      "id": 3,
+      "name": "サラ・ジョンソン",
+      "role": "データサイエンティスト",
+      "bio": "サラは {websiteName} のデータ可視化ツールを設計し、複雑な考古学データセットを直感的かつ洞察に満ちたものにします。",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJCT9SScspmVQJX2fcMWnO4en-xv8qzOJCg&s"
+    },
+    {
+      "id": 4,
+      "name": "ルイス・ナバロ",
+      "role": "主任開発者",
+      "bio": "ルイスは {websiteName} のオープンソースコードベースを監督し、ブラウザベースのプラットフォームの堅牢なパフォーマンスとセキュリティを確保します。",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIhqaQHE3TD9Rf2xIB_1hIF_79EAMO00IxUdlexCmtCn3CpbLBIfKof2zHz7d3dSM7wI&usqp=CAU"
+    }
+  ]
+}

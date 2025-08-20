@@ -1,0 +1,26 @@
+{
+  "title": "Política de Cookies de {websiteName}",
+  "subtitle": "Cómo utilizamos cookies para mejorar tu experiencia en nuestra plataforma de datos históricos y arqueológicos",
+  "content": [
+    "{websiteName} utiliza cookies para mejorar tu experiencia de navegación, analizar el uso y ofrecer funciones personalizadas en nuestra plataforma dedicada a datos históricos y arqueológicos.",
+    "Al utilizar nuestro sitio web, aceptas el uso de cookies según lo establecido en esta política, garantizando una experiencia fluida y personalizada."
+  ],
+  "sections": [
+    {
+      "title": "¿Qué son las Cookies?",
+      "content": "Las cookies son pequeños archivos de texto almacenados en tu dispositivo por {websiteName} para recordar tus preferencias, rastrear el uso y mejorar la funcionalidad de nuestra plataforma de datos históricos."
+    },
+    {
+      "title": "Tipos de Cookies que Utilizamos",
+      "content": "{websiteName} utiliza cookies esenciales, analíticas y de personalización para garantizar la funcionalidad del sitio, analizar el comportamiento del usuario y ofrecer contenido personalizado relacionado con recursos históricos y arqueológicos."
+    },
+    {
+      "title": "Gestión de Cookies",
+      "content": "Puedes gestionar o desactivar las cookies desde la configuración de tu navegador. Ten en cuenta que desactivar las cookies puede limitar algunas funciones de {websiteName}, como las recomendaciones personalizadas de contenido."
+    },
+    {
+      "title": "Privacidad de Datos",
+      "content": "Las cookies de {websiteName} se utilizan en cumplimiento con las normativas de protección de datos, asegurando tu privacidad mientras accedes a nuestros recursos históricos y arqueológicos seleccionados."
+    }
+  ]
+}

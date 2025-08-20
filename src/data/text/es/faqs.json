@@ -1,0 +1,31 @@
+{
+  "title": "Preguntas frecuentes de {websiteName}",
+  "subtitle": "Conoce nuestra plataforma de código abierto para gestionar datos de investigación arqueológica e histórica",
+  "faqs": [
+    {
+      "id": 1,
+      "question": "¿Qué es {websiteName} y cómo apoya la investigación arqueológica?",
+      "answer": "{websiteName} es un sistema de base de datos basado en navegador y de código abierto diseñado para adquirir, editar y gestionar datos arqueológicos, históricos y prosopográficos. Utiliza formularios personalizados para simplificar la entrada de datos y mapea automáticamente las entradas al estándar CIDOC-CRM, garantizando interoperabilidad y cumplimiento con los principios FAIR (Encontrable, Accesible, Interoperable, Reutilizable)."
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo puedo usar {websiteName} para gestionar mis datos de investigación?",
+      "answer": "Con {websiteName}, puedes crear formularios personalizados para ingresar datos como registros de excavaciones, detalles de artefactos o perfiles históricos. La plataforma soporta edición colaborativa, visualización de datos y exportación en formatos compatibles con CIDOC-CRM. Regístrate para obtener una cuenta gratuita y accede a estas herramientas, además de explorar nuestro repositorio de código abierto para personalización."
+    },
+    {
+      "id": 3,
+      "question": "¿{websiteName} asegura que los datos cumplan con los principios FAIR?",
+      "answer": "Sí, {websiteName} está diseñado para cumplir con los principios FAIR. Los datos son encontrables mediante identificadores únicos, accesibles a través de APIs abiertas, interoperables con mapeos CIDOC-CRM y reutilizables con licencias claras. Los metadatos se generan automáticamente para mejorar la descubribilidad y cumplir con los estándares de investigación globales."
+    },
+    {
+      "id": 4,
+      "question": "¿Puedo contribuir con mis propios datos o formularios a {websiteName}?",
+      "answer": "Por supuesto. {websiteName} permite a los investigadores enviar conjuntos de datos o plantillas de formularios personalizados a través de un portal seguro. Las contribuciones son revisadas por pares para garantizar calidad y compatibilidad con CIDOC-CRM. Los contenidos aprobados se integran en la plataforma, se acreditan a los colaboradores y se ofrecen bajo licencias abiertas."
+    },
+    {
+      "id": 5,
+      "question": "¿Cómo maneja {websiteName} la seguridad y autenticidad de los datos?",
+      "answer": "{websiteName} utiliza encriptación y seguimiento de procedencia basado en blockchain para proteger los datos y verificar su autenticidad. Todas las entradas provienen de instituciones confiables o colaboradores verificados, y los metadatos aseguran la trazabilidad. Nuestro código de fuente abierta permite auditorías comunitarias para garantizar transparencia y confiabilidad."
+    }
+  ]
+}

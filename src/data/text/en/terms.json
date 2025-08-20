@@ -1,0 +1,31 @@
+{
+  "title": "{websiteName} Terms of Service",
+  "subtitle": "Rules and agreements for using our open-source research platform",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Acceptance of Terms",
+      "content": "By using {websiteName}, you agree to these Terms of Service. These terms govern your access to our browser-based database for archaeological and historical data. Non-compliance may result in account suspension."
+    },
+    {
+      "id": 2,
+      "title": "User Responsibilities",
+      "content": "Users must provide accurate information during registration and data submission. You are responsible for maintaining account security. Misuse of {websiteName}’s tools violates these terms."
+    },
+    {
+      "id": 3,
+      "title": "Data Licensing",
+      "content": "Data submitted to {websiteName} is shared under open licenses per FAIR principles. Users must respect these licenses when using or redistributing data. Unauthorized use is prohibited."
+    },
+    {
+      "id": 4,
+      "title": "Platform Usage",
+      "content": "{websiteName} is for research and educational purposes. Commercial use requires prior approval. Users must comply with CIDOC-CRM standards for data submissions."
+    },
+    {
+      "id": 5,
+      "title": "Termination",
+      "content": "{websiteName} may terminate accounts for violating these terms. Users can request account deletion. Terminated accounts lose access to submitted data and platform features."
+    }
+  ]
+}

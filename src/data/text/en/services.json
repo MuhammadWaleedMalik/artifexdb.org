@@ -1,0 +1,26 @@
+{
+  "title": "Our Services",
+  "subtitle": "Comprehensive solutions to empower your business",
+  "content": [
+    "We offer a range of professional services tailored to meet your business needs.",
+    "Our expert team is dedicated to delivering innovative and reliable solutions."
+  ],
+  "sections": [
+    {
+      "title": "Technology Solutions",
+      "content": "Cutting-edge technology solutions to modernize your business operations."
+    },
+    {
+      "title": "Security Services",
+      "content": "Comprehensive security solutions to protect your business from threats."
+    },
+    {
+      "title": "Tax Consultation",
+      "content": "Expert guidance on country-specific tax regulations and payment processes."
+    },
+    {
+      "title": "Custom Software Development",
+      "content": "Bespoke software solutions designed to fit your unique business requirements."
+    }
+  ]
+}

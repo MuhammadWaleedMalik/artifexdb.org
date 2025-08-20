@@ -1,0 +1,37 @@
+{
+  "title": "Acerca de {websiteName}",
+  "subtitle": "Potenciando la investigación global con una plataforma de código abierto para datos arqueológicos e históricos",
+  "mission": {
+    "title": "Nuestra Misión",
+    "description": "{websiteName} está dedicado a transformar la forma en que los investigadores adquieren, editan y gestionan datos arqueológicos, históricos y prosopográficos. Al proporcionar un sistema de base de datos basado en navegador y de código abierto con formularios personalizados y mapeo CIDOC-CRM, garantizamos que los datos sean interoperables, accesibles y cumplan con los principios FAIR, fomentando la colaboración y el descubrimiento global."
+  },
+  "features": {
+    "title": "Por qué elegir  ",
+    "items": [
+      {
+        "id": 1,
+        "title": "Plataforma de Código Abierto",
+        "description": "{websiteName} es completamente de código abierto, lo que permite a los investigadores personalizar formularios, integrar nuevas herramientas y contribuir al código base para una innovación impulsada por la comunidad."
+      },
+      {
+        "id": 2,
+        "title": "Integración con CIDOC-CRM",
+        "description": "Nuestra plataforma mapea automáticamente los datos al estándar CIDOC-CRM, asegurando interoperabilidad con sistemas de patrimonio cultural global y un intercambio de datos fluido."
+      },
+      {
+        "id": 3,
+        "title": "Cumplimiento de los Principios FAIR",
+        "description": "{websiteName} cumple con los principios FAIR, haciendo que los datos sean encontrables, accesibles, interoperables y reutilizables mediante identificadores únicos, APIs abiertas y licencias claras."
+      },
+      {
+        "id": 4,
+        "title": "Gestión Segura de Datos",
+        "description": "Con encriptación y seguimiento de procedencia basado en blockchain, {websiteName} asegura la seguridad, autenticidad y trazabilidad de los datos para una investigación confiable."
+      }
+    ]
+  },
+  "team": {
+    "title": "Nuestro Equipo",
+    "description": "{websiteName} está impulsado por un equipo global de arqueólogos, historiadores, científicos de datos y desarrolladores comprometidos con avanzar en la investigación de acceso abierto y preservar el patrimonio cultural."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "精製データリポジトリ",
+  "subtitle": "検証済みの考古学および歴史データセット",
+  "filters": {
+    "all": "すべてのデータ",
+    "verified": "検証済み",
+    "popular": "人気",
+    "recent": "最近"
+  },
+  "filter": "フィルター",
+  "filterBy": "フィルター条件",
+  "popularTags": "人気タグ",
+  "searchPlaceholder": "データセットを検索...",
+  "addData": "データを追加",
+  "addDataTitle": "新しいデータを追加",
+  "cancel": "キャンセル",
+  "submitData": "データ送信",
+  "formFields": {
+    "title": "タイトル",
+    "titlePlaceholder": "データセットのタイトルを入力",
+    "description": "説明",
+    "descriptionPlaceholder": "データセットの説明を入力",
+    "tags": "タグ",
+    "tagsPlaceholder": "タグを入力、カンマで区切る",
+    "tagsHint": "タグをカンマで区切る"
+  },
+  "noDataTitle": "データが見つかりません",
+  "noDataDescription": "検索またはフィルターを調整してください",
+  "clearSearch": "検索をクリア",
+  "detail": "詳細",
+  "details": "詳細情報",
+  "noDetails": "詳細情報がありません",
+  "addDetailPlaceholder": "このデータセットに詳細を追加",
+  "postDetail": "詳細を投稿",
+  "verified": "検証済み",
+  "sampleDataEntries": [
+    {
+      "title": "古代陶器分析",
+      "description": "青銅器時代の陶器破片の詳細な分析",
+      "details": [
+        "粘土サンプルの化学組成分析"
+      ]
+    },
+    {
+      "title": "中世写本カタログ",
+      "description": "12世紀ヨーロッパの彩色写本カタログ",
+      "details": []
+    },
+    {
+      "title": "ローマ集落調査",
+      "description": "新たに発見されたローマ集落の地球物理調査結果",
+      "details": [
+        "注釈付きの地中レーダー結果",
+        "発見の予備的解釈"
+      ]
+    }
+  ]
+}

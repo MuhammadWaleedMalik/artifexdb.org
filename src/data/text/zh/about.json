@@ -1,0 +1,37 @@
+{
+  "title": "关于 {websiteName}",
+  "subtitle": "通过开源平台为全球考古和历史数据研究赋能",
+  "mission": {
+    "title": "我们的使命",
+    "description": "{websiteName} 致力于革新研究人员获取、编辑和管理考古、历史及人物志数据的方式。通过提供开源的基于浏览器的数据库系统，配备定制化表单和 CIDOC-CRM 映射，我们确保数据具有互操作性、可访问性和符合 FAIR 原则，促进全球合作与发现。"
+  },
+  "features": {
+    "title": "为何选择 ",
+    "items": [
+      {
+        "id": 1,
+        "title": "开源平台",
+        "description": "{websiteName} 完全开源，允许研究人员自定义表单、集成新工具并为我们的代码库贡献力量，推动社区驱动的创新。"
+      },
+      {
+        "id": 2,
+        "title": "CIDOC-CRM 集成",
+        "description": "我们的平台自动将数据映射到 CIDOC-CRM 标准，确保与全球文化遗产系统的互操作性和无缝数据共享。"
+      },
+      {
+        "id": 3,
+        "title": "符合 FAIR 原则",
+        "description": "{websiteName} 遵循 FAIR 原则，通过唯一标识符、开放 API 和明确许可，使数据可发现、可访问、可互操作和可重用。"
+      },
+      {
+        "id": 4,
+        "title": "安全数据管理",
+        "description": "通过加密和基于区块链的来源追踪，{websiteName} 确保数据安全、真实性和可追溯性，为可靠研究提供保障。"
+      }
+    ]
+  },
+  "team": {
+    "title": "我们的团队",
+    "description": "{websiteName} 由一支由考古学家、历史学家、数据科学家和开发者组成的全球团队支持，致力于推动开放访问研究和保护文化遗产。"
+  }
+}

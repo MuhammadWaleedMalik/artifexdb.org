@@ -1,0 +1,48 @@
+{
+  "title": "Políticas de Acceso y Uso de {websiteName}",
+  "subtitle": "Directrices para acceder y utilizar nuestra plataforma de investigación de código abierto",
+  "tabs": [
+    {
+      "id": 1,
+      "title": "Políticas de Acceso",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Registro de Cuenta",
+          "content": "Para acceder a {websiteName}, los usuarios deben registrarse con un correo electrónico válido y completar un proceso de verificación. Esto asegura un acceso seguro a nuestra base de datos basada en navegador para la gestión de datos arqueológicos e históricos."
+        },
+        {
+          "id": 2,
+          "title": "Acceso Abierto",
+          "content": "{websiteName} es una plataforma de código abierto que ofrece acceso gratuito a herramientas de investigación y conjuntos de datos. Las funciones premium, como análisis avanzados, pueden requerir una suscripción."
+        },
+        {
+          "id": 3,
+          "title": "Envío de Datos",
+          "content": "Los investigadores pueden enviar datos a través de portales seguros. Todos los envíos son revisados para verificar el cumplimiento con CIDOC-CRM y se integran en la base de datos de {websiteName}."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Políticas de Uso",
+      "sections": [
+        {
+          "id": 4,
+          "title": "Uso de Datos",
+          "content": "Los usuarios pueden utilizar los datos de {websiteName} para investigación y educación, siempre que cumplan con los principios FAIR y citen la plataforma adecuadamente."
+        },
+        {
+          "id": 5,
+          "title": "Compartición de Contenido",
+          "content": "Los datos compartidos en {websiteName} están bajo licencias abiertas. Los usuarios deben respetar los acuerdos de licencia al reutilizar o redistribuir contenido."
+        },
+        {
+          "id": 6,
+          "title": "Directrices de la Comunidad",
+          "content": "Los usuarios deben seguir las directrices de {websiteName}, asegurando una colaboración respetuosa y el cumplimiento de estándares éticos en el manejo de datos."
+        }
+      ]
+    }
+  ]
+}

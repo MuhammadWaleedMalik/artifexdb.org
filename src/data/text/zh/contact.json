@@ -1,0 +1,17 @@
+{
+  "title": "联系我们",
+  "subtitle": "如需电影节投稿、管理或其他咨询方面的支持，请联系我们的团队。",
+  "contactInfo": {
+    "email": "support@filmfestivalplatform.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Festival Lane, Cinema City, CA 90210, USA"
+  },
+  "form": {
+    "title": "给我们留言",
+    "nameLabel": "姓名",
+    "emailLabel": "电子邮件",
+    "subjectLabel": "主题",
+    "messageLabel": "留言",
+    "submitButton": "提交"
+  }
+}

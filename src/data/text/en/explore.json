@@ -1,0 +1,22 @@
+{
+  "title": "Explore Our Solutions",
+  "subtitle": "Discover what we can do for you",
+  "content": [
+    "Explore our comprehensive range of services and solutions designed to meet your business needs.",
+    "From consulting to implementation, we provide end-to-end support for your projects."
+  ],
+  "sections": [
+    {
+      "title": "Technology Solutions",
+      "content": "Cutting-edge technology solutions to modernize your business operations."
+    },
+    {
+      "title": "Consulting Services",
+      "content": "Expert consulting to help you make informed decisions and strategic planning."
+    },
+    {
+      "title": "Support & Maintenance",
+      "content": "Ongoing support and maintenance to ensure your systems run smoothly."
+    }
+  ]
+}

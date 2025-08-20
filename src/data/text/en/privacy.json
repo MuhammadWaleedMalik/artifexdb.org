@@ -1,0 +1,31 @@
+{
+  "title": "{websiteName} Privacy Policy",
+  "subtitle": "Our commitment to protecting your data while advancing open-access research",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Data Collection",
+      "content": "{websiteName} collects only the data necessary to provide our open-source, browser-based database services, such as user account details (e.g., email, name) and research data submitted voluntarily. All data is collected in compliance with FAIR principles, ensuring transparency and accessibility."
+    },
+    {
+      "id": 2,
+      "title": "Data Usage",
+      "content": "We use your data to enable platform functionality, including data management, CIDOC-CRM mapping, and collaborative research. {websiteName} does not use personal data for marketing or share it with third parties without explicit consent, except as required by law."
+    },
+    {
+      "id": 3,
+      "title": "Data Security",
+      "content": "{websiteName} employs encryption and blockchain-based provenance tracking to secure your data. Our open-source platform is regularly audited by the community to ensure robust protection of archaeological, historical, and prosopographical data."
+    },
+    {
+      "id": 4,
+      "title": "Data Sharing and FAIR Principles",
+      "content": "As an open-access platform, {websiteName} shares anonymized research data under open licenses, adhering to FAIR principles (Findable, Accessible, Interoperable, Reusable). Personal data is never shared without consent, and users control their data's visibility."
+    },
+    {
+      "id": 5,
+      "title": "User Rights",
+      "content": "You have the right to access, modify, or delete your personal data on {websiteName}. Contact our support team to exercise these rights or review our policies for managing your contributions to our CIDOC-CRM-compliant database."
+    }
+  ]
+}

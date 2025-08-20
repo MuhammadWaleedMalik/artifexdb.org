@@ -1,0 +1,26 @@
+{
+  "title": "{websiteName} Cookie 政策",
+  "subtitle": "我们如何使用 Cookie 来提升您在我们历史与考古数据平台上的体验",
+  "content": [
+    "{websiteName} 使用 Cookie 来改善您的浏览体验、分析使用情况，并在我们专注于历史与考古数据的平台上提供个性化功能。",
+    "通过使用我们的网站，您同意按照本政策所述使用 Cookie，以确保流畅且个性化的体验。"
+  ],
+  "sections": [
+    {
+      "title": "什么是 Cookie",
+      "content": "Cookie 是由 {websiteName} 存储在您设备上的小型文本文件，用于记住您的偏好、跟踪使用情况，并增强我们历史数据平台的功能。"
+    },
+    {
+      "title": "我们使用的 Cookie 类型",
+      "content": "{websiteName} 使用基本 Cookie、分析 Cookie 和个性化 Cookie，以确保网站功能、分析用户行为并提供与历史和考古资源相关的定制内容。"
+    },
+    {
+      "title": "Cookie 管理",
+      "content": "您可以通过浏览器设置管理或禁用 Cookie。请注意，禁用 Cookie 可能会限制 {websiteName} 的某些功能，例如个性化内容推荐。"
+    },
+    {
+      "title": "数据隐私",
+      "content": "{websiteName} 上的 Cookie 遵守数据保护法规使用，在您访问我们精选的历史与考古资源时确保您的隐私。"
+    }
+  ]
+}

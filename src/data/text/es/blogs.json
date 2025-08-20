@@ -1,0 +1,41 @@
+{
+  "title": "Blog de {websiteName}",
+  "subtitle": "Explora ideas y actualizaciones sobre la gestión de datos arqueológicos",
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduciendo la Integración CIDOC-CRM de {websiteName}",
+      "excerpt": "{websiteName} ahora mapea datos a estándares CIDOC-CRM, asegurando interoperabilidad. Esta función simplifica el intercambio global de registros arqueológicos. Los investigadores acceden a conjuntos de datos unificados fácilmente. Nuestra plataforma de código abierto soporta integración fluida. Aprende a usar esta herramienta hoy.",
+      "date": "2025-08-01",
+      "category": "Tecnología"
+    },
+    {
+      "id": 2,
+      "title": "Principios FAIR en {websiteName}",
+      "excerpt": "{websiteName} cumple con los principios FAIR para la gestión de datos. Nuestra plataforma hace que la investigación sea encontrable, accesible, interoperable y reutilizable. Los usuarios se benefician de licencias abiertas y metadatos. Este enfoque fomenta la colaboración global. Descubre herramientas FAIR ahora.",
+      "date": "2025-07-15",
+      "category": "Investigación"
+    },
+    {
+      "id": 3,
+      "title": "Formularios Personalizados en {websiteName}",
+      "excerpt": "{websiteName} ofrece formularios personalizables para la entrada de datos. Los investigadores pueden ajustar campos a necesidades arqueológicas específicas. Esta flexibilidad mejora la precisión de los datos. La plataforma soporta edición colaborativa. Comienza a crear tus formularios hoy.",
+      "date": "2025-06-30",
+      "category": "Funciones"
+    },
+    {
+      "id": 4,
+      "title": "Protegiendo Datos con {websiteName}",
+      "excerpt": "{websiteName} usa encriptación y blockchain para la seguridad de datos. El seguimiento de procedencia asegura la autenticidad de registros arqueológicos. Nuestro código abierto es auditado por la comunidad. Los investigadores confían en nuestra plataforma para datos sensibles. Explora nuestras funciones de seguridad.",
+      "date": "2025-06-10",
+      "category": "Seguridad"
+    },
+    {
+      "id": 5,
+      "title": "Contribuciones de la Comunidad a {websiteName}",
+      "excerpt": "{websiteName} prospera con contribuciones de la comunidad. Los investigadores envían conjuntos de datos y formularios, revisados por calidad. El contenido aprobado enriquece nuestra base de datos. Los colaboradores son reconocidos por su trabajo. Únete a nuestra comunidad global de investigación.",
+      "date": "2025-05-20",
+      "category": "Comunidad"
+    }
+  ]
+}

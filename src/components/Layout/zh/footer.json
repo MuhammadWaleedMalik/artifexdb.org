@@ -1,0 +1,45 @@
+{
+  "brand": {
+    "nameAlt": "RightsTrade",
+    "slogan": "数据与考古数据平台"
+  },
+  "sections": [
+    {
+      "title": "加入我们",
+      "links": [
+        { "path": "/signup", "label": "注册" },
+        { "path": "/login", "label": "登录" }
+      ]
+    },
+    {
+      "title": "关于我们",
+      "links": [
+        { "path": "/access-/-use", "label": "访问与使用" },
+        { "path": "/blogs", "label": "博客" },
+        { "path": "/contact-us", "label": "联系我们" }
+      ]
+    },
+    {
+      "title": "公司",
+      "links": [
+        { "path": "/faqs", "label": "常见问题" },
+        { "path": "/privacy", "label": "隐私政策" },
+        { "path": "/terms", "label": "服务条款" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Twitter", "link": "d" },
+      { "name": "Youtube", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "版权 ©",
+    "privacy": "隐私政策",
+    "cookies": "Cookie 政策",
+    "terms": "服务条款"
+  }
+}

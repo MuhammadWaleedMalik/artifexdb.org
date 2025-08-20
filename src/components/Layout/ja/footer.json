@@ -1,0 +1,45 @@
+{
+  "brand": {
+    "nameAlt": "RightsTrade",
+    "slogan": "データと考古学データのプラットフォーム"
+  },
+  "sections": [
+    {
+      "title": "参加する",
+      "links": [
+        { "path": "/signup", "label": "サインアップ" },
+        { "path": "/login", "label": "ログイン" }
+      ]
+    },
+    {
+      "title": "私たちについて",
+      "links": [
+        { "path": "/access-/-use", "label": "アクセスと利用" },
+        { "path": "/blogs", "label": "ブログ" },
+        { "path": "/contact-us", "label": "お問い合わせ" }
+      ]
+    },
+    {
+      "title": "会社情報",
+      "links": [
+        { "path": "/faqs", "label": "よくある質問" },
+        { "path": "/privacy", "label": "プライバシーポリシー" },
+        { "path": "/terms", "label": "利用規約" }
+      ]
+    }
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Twitter", "link": "d" },
+      { "name": "Youtube", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "著作権 ©",
+    "privacy": "プライバシーポリシー",
+    "cookies": "クッキーポリシー",
+    "terms": "利用規約"
+  }
+}

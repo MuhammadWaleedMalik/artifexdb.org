@@ -1,0 +1,24 @@
+{
+  "title": "Explore Our Festival Insights",
+  "subtitle": "Dive into the world of film festivals with tips, tricks, and tools to enhance your experience.",
+  "posts": [
+    {
+      "title": "Discover Amazing Festivals",
+      "content": "Explore thousands of film festivals worldwide with our platform. From indie gems to major events, find the perfect festival to showcase your work. Our curated listings make it easy to discover opportunities that match your film’s genre, budget, and goals. Search by location, category, or submission deadlines to find your next big break. Whether you’re a first-time filmmaker or a seasoned pro, our platform connects you to a global network of festivals. Start exploring today and elevate your film’s reach!",
+      "image": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/047/271/large/logo.jpg?1716421496",
+      "link": "/festivals"
+    },
+    {
+      "title": "The Smart and Easy Way to Submit",
+      "content": "Submitting your film has never been easier with our streamlined process. Upload your project, select festivals, and submit with a single click. Our platform saves you time by storing your film details securely for reuse across multiple submissions. Track your submissions in real-time and receive updates on festival decisions. Designed for filmmakers, our intuitive interface eliminates the hassle of paperwork and complex forms. Get your film in front of festival organizers effortlessly and focus on what you do best: creating.",
+      "image": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/005/387/large/logo.jpg?1714481098",
+      "link": "/submit"
+    },
+    {
+      "title": "Game Changing for Festivals and Contests",
+      "content": "Transform your festival with our all-in-one management tools. Receive submissions, sell tickets, and promote your event seamlessly. Our platform streamlines entry reviews with customizable judging criteria and secure file handling. Engage your audience with integrated marketing tools and real-time analytics. From small local events to international festivals, our solutions scale to meet your needs. Simplify logistics, boost attendance, and focus on curating an unforgettable festival experience. Discover how we empower organizers to succeed!",
+      "image": "https://filmfreeway-production-storage-01-connector.filmfreeway.com/festivals/logos/000/005/378/large/logo.jpg?1743414497",
+      "link": "/manage"
+    }
+  ]
+}

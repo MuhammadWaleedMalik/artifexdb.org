@@ -1,0 +1,31 @@
+{
+  "title": "Términos de Servicio de {websiteName}",
+  "subtitle": "Reglas y acuerdos para usar nuestra plataforma de investigación de código abierto",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Aceptación de Términos",
+      "content": "Al usar {websiteName}, aceptas estos Términos de Servicio. Estos términos rigen tu acceso a nuestra base de datos basada en navegador para datos arqueológicos e históricos. El incumplimiento puede resultar en la suspensión de la cuenta."
+    },
+    {
+      "id": 2,
+      "title": "Responsabilidades del Usuario",
+      "content": "Los usuarios deben proporcionar información precisa durante el registro y la presentación de datos. Eres responsable de mantener la seguridad de la cuenta. El mal uso de las herramientas de {websiteName} viola estos términos."
+    },
+    {
+      "id": 3,
+      "title": "Licencias de Datos",
+      "content": "Los datos enviados a {websiteName} se comparten bajo licencias abiertas según los principios FAIR. Los usuarios deben respetar estas licencias al usar o redistribuir datos. El uso no autorizado está prohibido."
+    },
+    {
+      "id": 4,
+      "title": "Uso de la Plataforma",
+      "content": "{websiteName} es para fines de investigación y educación. El uso comercial requiere aprobación previa. Los usuarios deben cumplir con los estándares CIDOC-CRM para las presentaciones de datos."
+    },
+    {
+      "id": 5,
+      "title": "Terminación",
+      "content": "{websiteName} puede terminar cuentas por violar estos términos. Los usuarios pueden solicitar la eliminación de la cuenta. Las cuentas terminadas pierden acceso a los datos enviados y las funciones de la plataforma."
+    }
+  ]
+}

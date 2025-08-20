@@ -1,0 +1,48 @@
+{
+  "title": "{websiteName} Access and Use Policies",
+  "subtitle": "Guidelines for accessing and utilizing our open-source research platform",
+  "tabs": [
+    {
+      "id": 1,
+      "title": "Access Policies",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Account Registration",
+          "content": "To access {websiteName}, users must register with a valid email and complete a verification process. This ensures secure access to our browser-based database for managing archaeological and historical data."
+        },
+        {
+          "id": 2,
+          "title": "Open Access",
+          "content": "{websiteName} is an open-source platform, offering free access to research tools and datasets. Premium features, like advanced analytics, may require a subscription."
+        },
+        {
+          "id": 3,
+          "title": "Data Submission",
+          "content": "Researchers can submit data via secure portals. All submissions are reviewed for CIDOC-CRM compliance and integrated into {websiteName}'s database."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Usage Policies",
+      "sections": [
+        {
+          "id": 4,
+          "title": "Data Usage",
+          "content": "Users may use {websiteName} data for research and education, provided they adhere to FAIR principles and cite the platform appropriately."
+        },
+        {
+          "id": 5,
+          "title": "Content Sharing",
+          "content": "Data shared on {websiteName} is licensed under open terms. Users must respect licensing agreements when reusing or redistributing content."
+        },
+        {
+          "id": 6,
+          "title": "Community Guidelines",
+          "content": "Users must follow {websiteName}'s guidelines, ensuring respectful collaboration and compliance with ethical standards in data handling."
+        }
+      ]
+    }
+  ]
+}

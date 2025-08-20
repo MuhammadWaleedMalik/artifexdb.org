@@ -1,0 +1,38 @@
+{
+  "page1": {
+    "title": "轻松管理您的研究数据",
+    "description": "{website.name} 是一个开源数据库软件，专为获取、编辑和管理人文学科（如历史、考古和文化遗产）以及相关科学数据而开发。",
+    "links": [
+  { "text": "Search Archeological Data Now ", "to": "/searchdata" },
+      { "text": "Make Your Findings Better", "to": "/refinedata" }
+        ]
+  },
+  "page2": {
+    "title": "{website.name}",
+    "description": "{website.name} 是一个开源数据库软件，专为获取、编辑和管理人文学科（如历史、考古和文化遗产）以及相关科学数据（例如放射性碳年代测定、稳定同位素和人类学信息）而开发。它提供一个可通过任何常用网页浏览器访问的用户界面，并允许研究人员通过自定义的表单和分类方式尽可能简化复杂关系的记录。该软件会自动将信息映射到国际标准 CIDOC CRM，并考虑当今关于数据标准、数据管理的需求，致力于遵循 FAIR 原则，符合数字人文学科的当前标准。"
+  },
+  "page3": {
+    "title": "如何使用",
+    "description": "{website.name} 不是一个独立应用程序，而是需要安装在 Linux 网络服务器上的系统。该代码是开源的（GPL2 许可证）并在 GitHub 上免费提供。需要一定的服务器管理经验，更多信息请参阅安装说明。"
+  },
+  "page4": {
+    "title": "有兴趣合作吗？",
+    "description": "尽管 {website.name} 在 GitHub 上免费提供，但并非每个项目都有内部资源来处理成功使用此复杂软件所需的所有方面（例如设置 Web 服务器和 {website.name} 本身、更新和备份、新功能开发等）。因此，如果有预算，可以通过奥地利科学院的 ACDH 与 {website.name} 团队合作。有关当前和过去的合作项目，请参见：projects。"
+  },
+  "page5": {
+    "title": "模型",
+    "description": "数据模型指定了数据库中存储信息的结构。例如，使用本体论可以更容易地将数据与其他项目的信息相结合，并符合 FAIR 原则。{website.name} 模型基于国际标准 CIDOC CRM，这是一种在 人文学科中广泛使用的本体论。\n\n类型可以适应特定研究主题\n用于开放链接数据（LOD）的参考系统\n空间和时间不确定性的映射\n带有详细映射的考古发现\n数据完整性检查功能\n用于确认 CIDOC CRM 有效性的链接检查器"
+  },
+  "page6": {
+    "title": "交互式地图",
+    "description": "已知位置的地点可以输入到基于 Leaflet 的交互式地图中，该地图具有不同的视图图层，支持缩放、全屏模式、聚类、搜索等功能。PostGIS 用于创建和操作空间数据。因此，可以根据需要输入多个点、线、区域和形状的位置。"
+  },
+  "page7": {
+    "title": "可信赖的合作伙伴",
+    "partners": [
+      { "name": "合作伙伴 1", "logo": "/images/partner1.png" },
+      { "name": "合作伙伴 2", "logo": "/images/partner2.png" },
+      { "name": "合作伙伴 3", "logo": "/images/partner3.png" }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "认识 {websiteName} 团队",
+  "subtitle": "我们开源考古数据平台的创新者",
+  "introduction": {
+    "title": "我们是谁",
+    "description": "{websiteName} 由一支充满激情的全球团队驱动，包括考古学家、历史学家、数据科学家和开发者。我们致力于推动开放访问研究、保护文化遗产，并通过符合 CIDOC-CRM 和 FAIR 原则的基于浏览器的系统实现无缝数据管理。"
+  },
+  "members": [
+    {
+      "id": 1,
+      "name": "埃琳娜·马丁内斯博士",
+      "role": "首席考古学家",
+      "bio": "马丁内斯博士专攻地中海考古学，领导 {websiteName} 将挖掘数据与 CIDOC-CRM 标准整合的工作。",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIyTZVXyb90oYHRiiX6YkNUc0CnzGwWjI3Q&s"
+    },
+    {
+      "id": 2,
+      "name": "田中宏教授",
+      "role": "历史学家",
+      "bio": "田中教授专注于东亚历史记录，确保 {websiteName} 的数据对全球研究者来说是可访问和可重用的。",
+      "image": "https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/7224.jpeg?itok=LwkgtTdm"
+    },
+    {
+      "id": 3,
+      "name": "莎拉·约翰逊",
+      "role": "数据科学家",
+      "bio": "莎拉设计 {websiteName} 的数据可视化工具，使复杂的考古数据集直观且富有洞察力。",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDJCT9SScspmVQJX2fcMWnO4en-xv8qzOJCg&s"
+    },
+    {
+      "id": 4,
+      "name": "路易斯·纳瓦罗",
+      "role": "首席开发者",
+      "bio": "路易斯负责 {websiteName} 的开源代码库，确保我们基于浏览器的平台具有强大的性能和安全性。",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIhqaQHE3TD9Rf2xIB_1hIF_79EAMO00IxUdlexCmtCn3CpbLBIfKof2zHz7d3dSM7wI&usqp=CAU"
+    }
+  ]
+}

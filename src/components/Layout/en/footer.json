@@ -1,0 +1,47 @@
+{
+  "brand": {
+    "nameAlt": "RightsTrade",
+    "slogan": "Data  and archaeological data platform"
+  },
+  "sections": [
+    {
+      "title": "Join Us",
+      "links": [
+        { "path": "/signup", "label": "Sign up" },
+        { "path": "/login", "label": "Login" }
+      ]
+    },
+    {
+      "title": "About Us",
+      "links": [
+        { "path": "/access-/-use", "label": "Access And Use" },
+        { "path": "/blogs", "label": "Blogs" } ,
+        { "path": "/contact-us", "label": "Contact" },
+        { "path": "/teams", "label": "Team" }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "path": "/faqs", "label": "FAQs" },
+        { "path": "/privacy", "label": "Privacy" },
+        { "path": "/terms", "label": "Terms" }
+      ]
+    }
+    
+  ],
+  "social": {
+    "links": [
+      { "name": "Facebook", "link": "d" },
+      { "name": "Twitter", "link": "d" },
+      { "name": "Youtube", "link": "d" },
+      { "name": "LinkedIn", "link": "d" }
+    ]
+  },
+  "copyright": {
+    "text": "Copyright ©",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies Policy",
+    "terms": "Terms of Service"
+  }
+}
